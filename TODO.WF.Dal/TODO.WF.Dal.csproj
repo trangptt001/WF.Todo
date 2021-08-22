@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TODO.WF.Common\TODO.WF.Common.csproj" />
+    <ProjectReference Include="..\TODO.WF.Model\TODO.WF.Model.csproj" />
+  </ItemGroup>
+
+</Project>

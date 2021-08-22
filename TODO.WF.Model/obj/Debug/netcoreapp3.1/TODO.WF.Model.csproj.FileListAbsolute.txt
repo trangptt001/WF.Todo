@@ -1,0 +1,16 @@
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Model.deps.json
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Model.dll
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Model.pdb
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.AssemblyInfoInputs.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.AssemblyInfo.cs
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.csproj.CoreCompileInputs.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.dll
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.pdb
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Common.dll
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Common.pdb
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.csprojAssemblyReference.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.csproj.CopyComplete
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Model.runtimeconfig.json
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\TODO.WF.Model.runtimeconfig.dev.json
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\obj\Debug\netcoreapp3.1\TODO.WF.Model.genruntimeconfig.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Model\bin\Debug\netcoreapp3.1\appsettings.json

@@ -1,0 +1,9 @@
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\bin\Debug\netcoreapp3.1\TODO.WF.Controller.deps.json
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\bin\Debug\netcoreapp3.1\TODO.WF.Controller.dll
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\bin\Debug\netcoreapp3.1\TODO.WF.Controller.pdb
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.AssemblyInfoInputs.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.AssemblyInfo.cs
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.csproj.CoreCompileInputs.cache
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.dll
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.pdb
+E:\WebDesign\NET\Winforms\TODO.WF\TODO.WF\TODO.WF.Controller\obj\Debug\netcoreapp3.1\TODO.WF.Controller.csprojAssemblyReference.cache

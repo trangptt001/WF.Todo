@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TODO.WF.Common\TODO.WF.Common.csproj" />
+    <ProjectReference Include="..\TODO.WF.Dal\TODO.WF.Dal.csproj" />
+    <ProjectReference Include="..\TODO.WF.Model\TODO.WF.Model.csproj" />
+  </ItemGroup>
+
+</Project>

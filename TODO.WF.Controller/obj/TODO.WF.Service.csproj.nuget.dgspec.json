@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Controller\\TODO.WF.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj",
+        "projectName": "TODO.WF.Common",
+        "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Controller\\TODO.WF.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Controller\\TODO.WF.Service.csproj",
+        "projectName": "TODO.WF.Service",
+        "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Controller\\TODO.WF.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj"
+              },
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\TODO.WF.Dal.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\TODO.WF.Dal.csproj"
+              },
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\TODO.WF.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\TODO.WF.Dal.csproj",
+        "projectName": "TODO.WF.Dal",
+        "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\TODO.WF.Dal.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj"
+              },
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj",
+        "projectName": "TODO.WF.Model",
+        "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\TODO.WF.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj": {
+                "projectPath": "E:\\WebDesign\\NET\\Winforms\\TODO.WF\\TODO.WF\\TODO.WF.Common\\TODO.WF.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
